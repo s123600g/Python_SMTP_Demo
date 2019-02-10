@@ -30,6 +30,17 @@
 
 #### Mail內容設置
 ---
+[7].  信箱主題(標題)
+  > msg['Subject'] = "Python SMTP GMAIL 寄送信件測試"
+<br/>
+
+[8].  信箱內容(主要信箱內容)
+  > content = MIMEText("Python 寄送信件測試.")
+<br/>
+
+[9].  信箱附件清單(如果有附件檔案夾帶需求，請注意附件檔案路徑位置，本專案是建立在一個目錄底下，所需附件也是存在於專案相同目錄底下)
+  > file_list = {'test.txt', 'test2.txt'}
+<br/>
 
 <p><p>
 
