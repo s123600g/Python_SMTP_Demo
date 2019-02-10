@@ -1,5 +1,8 @@
 # Python寄信程式撰寫筆記
 
+本專案程式執行前需要完成*Mail參數設置*與*Mail內容設置*內的設置，完成後即可測試執行程式，關於附件檔案類型部份，本專案原始測試是使用文字檔(txt)，在程式中會先透過*open()*開啟檔案並*read()*讀取內容，關於*Python open()* 開檔類型可參考[Python open() 函数](http://www.runoob.com/python/python-func-open.html)
+<p><p/>
+
 #### Mail參數設置
 ---
 [1].  預設使用*Google Gmail SMTP SERVER*
