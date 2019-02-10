@@ -4,7 +4,7 @@
 ---
 預設使用*Google Gmail SMTP SERVER*
 <br/>
-> SMTP_Server =  "smtp.gmail.com" #
+> SMTP_Server =  *"smtp.gmail.com"*
 
 
 <p><p>
