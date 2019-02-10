@@ -2,7 +2,7 @@
 
 可參考連結資源
 ------------------------------------------------------------------------------------
-How to send an email with Gmail as provider using Python?
+[How to send an email with Gmail as provider using Python?]
 <https://stackoverflow.com/questions/10147455/how-to-send-an-email-with-gmail-as-provider-using-python>
 
 How to Send Emails with Gmail using Python
