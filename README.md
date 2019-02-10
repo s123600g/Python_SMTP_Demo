@@ -2,7 +2,8 @@
 
 #### 參數設置
 ---
-預設使用** Google Gmail SMTP SERVER **
+預設使用 
+** Google Gmail SMTP SERVER **
 
 <p><p>
 
