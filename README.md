@@ -1,6 +1,6 @@
 # Python寄信程式撰寫筆記
 
-#### 參數設置
+#### Mail參數設置
 ---
 預設使用*Google Gmail SMTP SERVER*
 <br/>
@@ -27,6 +27,11 @@
 信件寄送目的位址(輸入要寄送的對方信箱)
 > mail_to = "Send to mail address"
 <br/>
+
+<p><p/>
+
+#### Mail內容設置
+---
 
 <p><p>
 
