@@ -2,7 +2,9 @@
 
 #### 參數設置
 ---
-預設使用*Google Gmail SMTP SERVER*<br/>
+預設使用*Google Gmail SMTP SERVER*
+<br/>
+> SMTP_Server =  "smtp.gmail.com" #
 
 
 <p><p>
