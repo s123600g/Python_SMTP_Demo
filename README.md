@@ -1,12 +1,12 @@
 # Python寄信程式撰寫筆記
 
-參數設置
+#####參數設置
 ---
 
 
 <p><p/>
 
-可參考連結資源
+#####可參考連結資源
 ---
 [How to send an email with Gmail as provider using Python?]<br/>
 <https://stackoverflow.com/questions/10147455/how-to-send-an-email-with-gmail-as-provider-using-python>
