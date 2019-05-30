@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
 # Python SMTP EMAIL 寄信程式撰寫筆記
 
 本專案程式執行前需要完成*Mail參數設置*與*Mail內容設置*內的設置，完成後即可測試執行程式。<br/>
